@@ -51,4 +51,15 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    public void Attack() {
+        animator.SetBool("Attack", true);
+        Invoke("False", 1);
+     
+    }
+
+    public void False()
+    {
+        animator.SetBool("Attack", false);
+
+    }
 }
