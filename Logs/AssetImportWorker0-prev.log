@@ -1,0 +1,110 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kobayashiryota/Dropbox/My Mac (kobayasdainoMBP)/Downloads/ToyStory
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64332
+Successfully changed project path to: /Users/kobayashiryota/Dropbox/My Mac (kobayasdainoMBP)/Downloads/ToyStory
+/Users/kobayashiryota/Dropbox/My Mac (kobayasdainoMBP)/Downloads/ToyStory
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kobayashiryota/Dropbox/My Mac (kobayasdainoMBP)/Downloads/ToyStory/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-25 00:07:55.319 Unity[75011:33448693] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-04-25 00:07:55.319 Unity[75011:33448693] Metal devices available: 1
+2021-04-25 00:07:55.319 Unity[75011:33448693] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-04-25 00:07:55.320 Unity[75011:33448693] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56011
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002229 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.348 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.108 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/kobayashiryota/Desktop/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 2.573829 ms (FindLiveObjects: 0.173041 ms CreateObjectMapping: 0.041903 ms MarkObjects: 2.256391 ms  DeleteObjects: 0.101016 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.5 MB.
+System memory in use after: 113.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 2.287153 ms (FindLiveObjects: 0.275672 ms CreateObjectMapping: 0.048207 ms MarkObjects: 1.944600 ms  DeleteObjects: 0.016100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials
+  artifactKey: Guid(35b9e464d87414ec4a17ff5cba7b6d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(35b9e464d87414ec4a17ff5cba7b6d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebedb1bf55b8d0673130a6c657c97581') in 0.004852 seconds
+  Import took 0.007063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 919.168800 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(59ff19d1786f94576838efda1680225b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(59ff19d1786f94576838efda1680225b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7e158f36e05fdd97e201b24cf0402a') in 0.423634 seconds
+  Import took 0.425967 seconds .
+
